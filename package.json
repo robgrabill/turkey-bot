@@ -1,5 +1,5 @@
 {
-  "name": "benchmark-slackbox",
+  "name": "spiffyrob-turkeybot",
   "version": "0.1.0",
   "description": "Spotify playlist collaboration through Slack.",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "benchmarkstudios/slackbox"
+    "url": "spiffyrob/turkey-bot"
   },
   "author": "Mike Francis <mikeffrancis@gmail.com>",
   "license": "MIT",
